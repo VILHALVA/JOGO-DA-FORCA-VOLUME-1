@@ -6,7 +6,22 @@
 ## DESCRIÇÃO:
 Este programa implementa um jogo simples de forca em Python. Ele seleciona aleatoriamente uma palavra de um arquivo chamado "WORD.txt" localizado no mesmo diretório do script, oculta a palavra, e permite que o usuário adivinhe as letras. O jogo fornece feedback sobre as letras corretas e incorretas, exibe o progresso da palavra oculta e termina quando o jogador adivinha corretamente a palavra ou excede o número máximo de tentativas (6 chances). O programa inclui também uma opção de "hack" que revela a palavra secreta, útil para depuração.
 
-## SAIBA MAIS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+## EXECUTANDO O JOGO:
+1. Certifique-se de ter um arquivo chamado `WORD.txt` no mesmo diretório que este arquivo Python.
+2. No arquivo `WORD.txt`, insira uma palavra em cada linha. Essas palavras serão escolhidas aleatoriamente para o jogo.
+3. Execute o arquivo Python.
+4. O jogo começará, exibindo uma série de traços representando as letras da palavra secreta.
+5. Você tem 6 chances para adivinhar a palavra secreta, digitando uma letra de cada vez.
+6. Se você adivinhar corretamente todas as letras da palavra, você vence. Se não, o jogo termina e revela a palavra secreta.
 
+## SOBRE O EXECUTAVEL:
+- Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE EXE](https://github.com/VILHALVA/CURSO-DE-EXE)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)

@@ -16,7 +16,7 @@ Este programa implementa um jogo simples de forca em Python. Ele seleciona aleat
 
 ## SOBRE O EXECUTAVEL:
 ### 1. EXECUTANDO:
-    - Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
+- Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
 
 ### 2. GERANDO:
    **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
